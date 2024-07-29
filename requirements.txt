@@ -1,0 +1,10 @@
+
+distro
+Django
+django-cors-headers
+django-elasticsearch-dsl
+django-sslserver
+django_ajax
+djangorestframework
+djangorestframework-simplejwt
+
